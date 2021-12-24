@@ -1,6 +1,5 @@
 h2 {
   font-size: 20px;
-  line-height: 1px;
 }
 .btn {
   margin-top: 15px;
@@ -9,12 +8,12 @@ h2 {
   font-size: 15px;
   background-color: #418cef;
   color: #fff;
+  border: none;
+  box-shadow: 10px 20px 30px white;
 }
 input {
-  color: #3f8aecbb;
-}
-hr {
-  color: #418cef;
+  color: black;
+  margin-bottom: 10px;
 }
 .i {
   display: flex;
@@ -26,11 +25,33 @@ h3 {
   font-size: 20px;
 }
 p {
-  color: #4a4a4a;
+  color: #202020;
 }
 .b {
   color: black;
 }
 body {
   margin-left: center;
+  font-family: "Inter", sans-serif;
+
+  font-family: "Roboto", sans-serif;
+
+  font-family: "Source Sans Pro", sans-serif;
+}
+label {
+  font-weight: 600;
+  font-size: 18px;
+}
+.btn:hover {
+  color: black;
+}
+a {
+  background-color: #418cef;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border-radius: 20px 20px;
+  padding: 12px;
+}
+.bl {
+  margin-bottom: 20px;
 }
