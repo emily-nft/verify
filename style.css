@@ -1,0 +1,38 @@
+h2 {
+  font-size: 20px;
+  line-height: 1px;
+}
+.btn {
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 20px 20px;
+  font-size: 15px;
+  background-color: #418cef;
+  color: #fff;
+}
+input {
+  color: #3f8aecbb;
+}
+hr {
+  color: #418cef;
+}
+.i {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h3 {
+  color: #01a8f3;
+  font-size: 20px;
+}
+p {
+  color: #4a4a4a;
+}
+.b {
+  color: black;
+}
+body {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
